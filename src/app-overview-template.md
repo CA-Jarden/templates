@@ -27,7 +27,7 @@
 
 # {{APP_NAME}}
 
-> **Page owner:** {{OWNER_NAME}} | **Last reviewed:** {{LAST_REVIEWED_DATE: YYYY-MM-DD}} | **Status:** {{STATUS: Active | Deprecated | Beta}} | **Last updated by agent:** {{AGENT_LAST_UPDATED: YYYY-MM-DD}}
+> **Page owner:** {{OWNER_NAME}} | **Current version:** {{CURRENT_VERSION: e.g. 1.4.2 or latest deployed commit SHA}} |  **Status:** {{STATUS: Active | Deprecated | Beta}} | **Last updated by agent:** {{AGENT_LAST_UPDATED: YYYY-MM-DD}}
 
 ---
 
